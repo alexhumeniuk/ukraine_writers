@@ -1,1 +1,11 @@
 # ukraine_writers
+git status
+git add
+git commit
+git push
+git merge
+git pull 
+git fetch
+git rebase
+git cherry-pick
+git tag
